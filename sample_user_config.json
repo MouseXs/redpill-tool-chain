@@ -7,8 +7,6 @@
     },
     "synoinfo": {
       "maxlanport": "4",
-      "esataportcfg": "0x000000000000",
-      "internalportcfg": "0xFFFFFFFFFFFF",
       "maxdisks": "16"
     },
     "ramdisk_copy": {},
